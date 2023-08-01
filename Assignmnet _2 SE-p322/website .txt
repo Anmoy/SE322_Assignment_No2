@@ -1,0 +1,23 @@
+<html>
+
+<head>
+
+ <title> Home </title>
+<font face="Arial" Size= "4"> <h1 <b> Home </b></h1>
+</head>
+
+<br> 
+
+<body bgcolor='Gray' text= "Black">
+
+<a href="Home.html">Home</a>
+<a href="Result.html">Office</a>
+<a href="Video.html">Gallery</a>
+<a href="Location.html">Video</a>
+
+<canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;">
+Your browser does not support the HTML canvas tag.
+</canvas>
+
+</body>
+</html>
